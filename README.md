@@ -1,2 +1,2 @@
 # Prediction-of-the-presence-of-breast-cancer-using-various-classification-algorithms-in-Python
-Predicted the presence of breast cancer using various classification algorithms in Python and Azure machine learning
+Breast cancer is currently the most common cancer among women worldwide, following skin cancer. The fact that breast cancer contains a variety of cell types and is thought to progress in stages makes prevention the most challenging. The death rate rises because most individuals are unable to identify this sickness before it evolves into a chronic state. The importance of machine learning and other data-driven methods in the early detection of diseases cannot be overemphasized, It aids in prediction, and it is becoming more crucial in many areas. 
